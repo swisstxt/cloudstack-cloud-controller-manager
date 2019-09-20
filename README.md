@@ -1,5 +1,9 @@
 # CloudStack Kubernetes Provider
 
+| :warning: :construction: :gift: Ownership of this project was transferred to the Apache foundation.
+| --- |
+| It will no longer be maintained. Please migrate to [apache/cloudstack-kubernetes-provider](https://github.com/apache/cloudstack-kubernetes-provider) |
+
 [![](https://img.shields.io/github/release/swisstxt/cloudstack-cloud-controller-manager.svg?style=flat-square "Release")](https://github.com/swisstxt/cloudstack-cloud-controller-manager/releases)
 [![](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square "Apache 2.0 license")](/LICENSE-2.0)
 [![](https://img.shields.io/badge/language-Go-%235adaff.svg?style=flat-square "Go language")](https://golang.org)
