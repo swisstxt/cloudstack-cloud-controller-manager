@@ -128,7 +128,7 @@ spec:
     spec:
       containers:
       - name: cloud-controller-manager
-        image: apache/cloudstack-kubernetes-provider:latest
+        image: swisstxt/cloudstack-cloud-controller-manager:master
         imagePullPolicy: IfNotPresent
         command:
         - /root/cloudstack-ccm
